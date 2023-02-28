@@ -1,0 +1,59 @@
+html {
+    font-size: 16px;
+}
+
+body,
+html {
+    font-family: IRANSans, Arial, sans-serif !important;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    scroll-behavior: smooth;
+    min-height: 100vh;
+}
+
+body {
+    overflow-x: hidden;
+    font-size: 0.875rem !important;
+}
+
+*,
+select,
+option {
+    box-sizing: border-box;
+    font-family: IRANSans, Arial, sans-serif;
+}
+
+select,
+input,
+textarea {
+    outline: none !important;
+}
+
+button {
+    outline: none !important;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
